@@ -37,6 +37,9 @@ In this step, I will compare the distribution of people by cluster for the custo
 
 ## Conclusion
 
+![Screenshot 2023-06-26 174912](https://github.com/mahmodKhaled/Identify-Customer-Segments/assets/54672453/a259f9a4-e41f-4c35-a3b1-f4373291b7bd)
+
+
 From the anaylsis above, it can be seen that
 
 **Cluster 5** is overrepresented in the customers data compared to general population data. Some characteristics of the group of population that are relative popular with the mail-order company:

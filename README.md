@@ -1,10 +1,15 @@
 # Identify-Customer-Segments
 
+<div align="center">
+  
+[![Last Commit](https://img.shields.io/github/last-commit/mahmodKhaled/Identify-Customer-Segments)](https://github.com/mahmodKhaled/Identify-Customer-Segments/commits/main)
+</div>
+
 ## Project Overview
 
 In this project, I will apply unsupervised learning techniques on demographic and spending data for a sample of German households. I will preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company.
 
-## Datasets Descriptions
+## Datasets Descriptions 📁
 
 There are four data files associated with this project:
 
@@ -13,7 +18,7 @@ There are four data files associated with this project:
 - `Data_Dictionary.md`: Detailed information file about the features in the provided datasets.
 - `AZDIAS_Feature_Summary.csv`: Summary of feature attributes for demographics data; 85 features (rows) x 4 columns
 
-## Project Instructions
+## Project Instructions 📝
 
 ### Step 1: Preprocessing
 
@@ -35,7 +40,7 @@ In this step, I will apply clustering techniques to identify groups in the gener
 
 In this step, I will compare the distribution of people by cluster for the customer data to the distribution by cluster in the general population.
 
-## Conclusion
+## Conclusion 📊
 
 ![Screenshot 2023-06-26 174912](https://github.com/mahmodKhaled/Identify-Customer-Segments/assets/54672453/a259f9a4-e41f-4c35-a3b1-f4373291b7bd)
 

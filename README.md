@@ -3,6 +3,10 @@
 <div align="center">
   
 [![Last Commit](https://img.shields.io/github/last-commit/mahmodKhaled/Identify-Customer-Segments)](https://github.com/mahmodKhaled/Identify-Customer-Segments/commits/main)
+![Lines of code](https://img.shields.io/tokei/lines/github/mahmodKhaled/Identify-Customer-Segments)
+![GitHub repo size](https://img.shields.io/github/repo-size/mahmodKhaled/Identify-Customer-Segments)
+![GitHub Repo stars](https://img.shields.io/github/stars/mahmodKhaled/Identify-Customer-Segments)
+
 </div>
 
 ## Project Overview
